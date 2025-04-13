@@ -624,7 +624,7 @@
   align-items: flex-end;
 }
 #es-nyx.es-nyx .es-cross__single {
-  max-width: 300px;
+  max-width: 270px;
   margin: 10px;
 }
 #es-nyx.es-nyx .es-cross__single:hover .es-cross__img {
@@ -638,6 +638,10 @@
   display: block;
   max-width: 100%;
   transition: 0.5s all;
+  max-width: 180px;
+}
+#es-nyx.es-nyx .es-cross__img--3 {
+  max-width: 170px;
 }
 #es-nyx.es-nyx .es-cross__nameCtn {
   display: flex;
